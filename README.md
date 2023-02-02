@@ -1,5 +1,5 @@
 # lab2-project-requirements-15-team-6
-Jamie - JamieGraves |
-James - JamesVu34 |
+Jamie Graves - JamieGraves |
+James Vu - JamesVu34 |
 Brandon Lehman - Lumi297 |
-Ian - Ian Keeler
+Ian Keeler - IanKeeler
